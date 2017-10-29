@@ -1,8 +1,3 @@
-/*
- * TCSS 305 - Autumn 2017
- * Assignment 0 - Orientation
- */
-
 /**
  * The program will print out the UW logo by having the main method from 
  * the HelloMain class call an instance method from this Hello class.
